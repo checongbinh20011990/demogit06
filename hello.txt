@@ -1,2 +1,3 @@
 Hello Git A
 May A sua code theo chuc nang
+May B sua noi dung
