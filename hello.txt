@@ -1,3 +1,4 @@
 Hello Git A
 May A sua code theo chuc nang
 May B sua noi dung
+A chinh sửa noi dung de lam chúc nang product
