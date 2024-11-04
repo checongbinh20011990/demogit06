@@ -1,3 +1,4 @@
 May A code chuc nang login
 May B update noi dung
+A Chinh su noi dung de lam tinh nang product
 May B chinh sửa noi dung gio hang
